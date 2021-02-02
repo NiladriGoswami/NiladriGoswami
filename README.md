@@ -73,10 +73,10 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://niladri-portfolio.000webhostapp.com/index.html"><img src="https://img.shields.io/badge/-Portfolio-yellowgreen"/></a>
 <a href="https://www.linkedin.com/in/niladri-goswami-0972a2118"><img src="https://img.shields.io/badge/LinkedIn-Niladri%20Goswami-blue"/></a>
 <a href="mailto:niladrig007@gmail.com"><img src="https://img.shields.io/badge/Gmail-Niladri%20Goswami-red"/></a>
- <a href="https://twitter.com/NiladriGoswami8"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-Niladri%20Goswami-blue"/></a>
+<a href="https://twitter.com/NiladriGoswami8"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-Niladri%20Goswami-blue"/></a>
 <!--<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
 <!--<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>-->
 <!--<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>-->
