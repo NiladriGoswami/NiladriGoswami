@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🌱 &nbsp;I belive in learning and growing my skillset's also parallely polishing my existing skills.Recently learning NodeJS and ReactJS\
 ✍️ &nbsp;Spend free time by seraching for something useful over the internet which compliments my existing skillsets and knowledge.\
 💬 &nbsp;Feel free to look my [Portfolio](https://niladri-portfolio.000webhostapp.com/index.html) to get better understanding of the works I did previously.\
-✉️ &nbsp;You can shoot me an email at niladrig007@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at niladrig007@gmail.com . I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1A3j-V5EavPduq9heLJ51E79GHCXgZDv7/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
