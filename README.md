@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/niladri-goswami-0972a2118"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/niladri-goswami-0972a2118"><img src="https://img.shields.io/badge/LinkedIn-Niladri%20Goswami-blue"/></a>
 <a href="mailto:niladrig007@gmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F811070214126098165%2F&psig=AOvVaw2amEuW7V7nEkt2M2yxfjIA&ust=1612342616981000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjHjLnqyu4CFQAAAAAdAAAAABAD"/></a>
 <!--<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
 <!--<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>-->
