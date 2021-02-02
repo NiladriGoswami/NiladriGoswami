@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Niladri Goswami. I build things on web and recently looking for job opportunities in Web Development and Front-End.
+### I'm Niladri Goswami. I build things on web and recently looking for job opportunities in Web Development and Front-End.
 
 <!--
 **NiladriGoswami/NiladriGoswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
