@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I build things on web and recently looking for job opportunities in Web Development and Front-End domain.\
+💡  &nbsp;I build things on web and recently looking for job opportunities in Web Development and Front-End domain.\
 🎓 &nbsp;I have completed my post graduation from Kolkata, West Bengal, India in 2019.\
 🌱 &nbsp;I belive in learning and growing my skillset's also parallely polishing my existing skills.Recently learning NodeJS and ReactJS\
 ✍️ &nbsp;Spend free time by seraching for something useful over the internet which compliments my existing skillsets and knowledge.\
