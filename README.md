@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-<a href="https://niladri-portfolio.000webhostapp.com/index.html"><img src="https://img.shields.io/badge/-Portfolio-yellowgreen"/></a>&nbsp;
+<p align="center">
+<!--<a href="https://niladri-portfolio.000webhostapp.com/index.html"><img src="https://img.shields.io/badge/-Portfolio-yellowgreen"/></a>&nbsp;-->
 <a href="https://www.linkedin.com/in/niladri-goswami-0972a2118"><img src="https://img.shields.io/badge/LinkedIn-Niladri%20Goswami-blue"/></a>&nbsp;
 <a href="mailto:niladrig007@gmail.com"><img src="https://img.shields.io/badge/Gmail-Niladri%20Goswami-red"/></a>&nbsp;
 <a href="https://twitter.com/NiladriGoswami8"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-Niladri%20Goswami-blue"/></a>
